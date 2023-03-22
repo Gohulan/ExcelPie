@@ -7,7 +7,7 @@ ExcelPie is a Python project that reads data from an Excel file and visualizes i
 ==================
 Installation
 ==================
-Clone the repository: git clone https://github.com/your-username/ExcelPie.git
+Clone the repository: git clone https://github.com/gohulan/ExcelPie.git
 Install the required libraries: pip install openpyxl pychart
 
 ==================
